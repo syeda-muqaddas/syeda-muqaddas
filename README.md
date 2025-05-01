@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is syeda muqaddas bibi and I'm a future programmer from giaic</h2>
+<h2 align="left">Hi 👋! My name is syeda muqaddas bibi and I'm a future programmer </h2>
 
 ###
 
